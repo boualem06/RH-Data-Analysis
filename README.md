@@ -1,1 +1,1 @@
-![Alt text](images/pic "")
+![Alt text](images/pic.png "")
